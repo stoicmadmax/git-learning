@@ -1,5 +1,5 @@
 name = input("What is your name? ")
-print(f"Hello, {name}! Welcome to Git locally.")
+print(f"Hello, {name}! Welcome to Git locally and GitHub.")
 print("This is my greeting feature.")
 print("This project is now on GitHub.")
 print("This change was made on GitHub.")
