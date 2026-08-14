@@ -1,0 +1,7 @@
+*.csv  diff=csv
+*.tsv  diff=csv
+*.xlsx diff=spreadsheet
+*.xlsm diff=spreadsheet
+*.xltx diff=spreadsheet
+*.xltm diff=spreadsheet
+*.xls  diff=spreadsheet
